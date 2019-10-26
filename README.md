@@ -1,1 +1,1 @@
-# FTP-Server-Client-
+# COMP342-Project2
